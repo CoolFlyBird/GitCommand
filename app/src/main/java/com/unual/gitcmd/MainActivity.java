@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //masterFix
         //develop分支的注释
-        //来自bugfix的修改
+        //来自bugFix的修改
     }
 }
